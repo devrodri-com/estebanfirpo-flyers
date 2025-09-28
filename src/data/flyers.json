@@ -103,4 +103,21 @@
     "logoProject": "/parkside-logo.png",
     "kicker": "Brickell • Parkside"
   }
+  ,
+  {
+    "id": "nomad",
+    "tema": "NoMad Residences Wynwood",
+    "titulo": "Renta diaria estilo hotel (Airbnb permitido)",
+    "subtitulo": "Desde USD 680k · residencias amobladas",
+    "bullets": [
+      "Sin restricciones de alquiler; renta diaria permitida (Airbnb)",
+      "Rooftop con piscina resort y NoMad Bar; Casa Tua Cucina en planta baja",
+      "Biblioteca, coworking y wellness center; valet y garaje en el edificio"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-nomad.jpg",
+    "logoProject": "/nomad-logo.png",
+    "kicker": "Wynwood • NoMad"
+  }
 ]
