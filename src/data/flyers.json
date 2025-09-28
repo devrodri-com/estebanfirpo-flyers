@@ -1,0 +1,106 @@
+[
+  {
+    "id": "sem1",
+    "tema": "Presentación",
+    "titulo": "Invertí en Miami con números claros y opciones curadas",
+    "subtitulo": "Decime tu rango y objetivo. Te armo alternativas hoy.",
+    "bullets": [
+      "Curación por objetivo: renta, uso o mixto",
+      "Cashflow real: HOA, impuestos, mobiliario",
+      "Gestión end-to-end con aliados",
+      "Atención en español e inglés"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "solid"
+  },
+  {
+    "id": "sem2",
+    "tema": "Twenty Six & 2nd",
+    "titulo": "Wynwood   Residencias + oficina con hosting",
+    "subtitulo": "Airbnb permitido, ubicación prime",
+    "bullets": [
+      "Desde ~USD 500k",
+      "Renta corta sin restricciones (Airbnb)",
+      "Ubicación en pleno Wynwood"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-26and2.jpg",
+    "logoProject": "/TwentySixth.png",
+    "kicker": "Wynwood • 26&2",
+    "officeHosting": true
+  },
+  {
+    "id": "flow",
+    "tema": "Flow House",
+    "titulo": "Renta Garantizada 6% neto por 2 años",
+    "subtitulo": "Desde USD 450k · mejor ubicación",
+    "bullets": [
+      "Unidades equipadas y amuebladas",
+      "Renta flexible ≥30 días",
+      "Torre 41 pisos · 466 residencias",
+      "Amenidades completas",
+      "Renta garantizada por el desarrollador del 6% anual (cupo limitado)"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-flow.jpg",
+    "logoProject": "/flow-logo.png",
+    "kicker": "Miami Worldcenter • Flow"
+  }
+  ,
+  {
+    "id": "7200-collins",
+    "tema": "7200 Collins",
+    "titulo": "Frente al mar   Renta sin restricciones",
+    "subtitulo": "Desde USD 570k · club de playa privado",
+    "bullets": [
+      "Renta corta aprobada (sin restricciones)",
+      "Frente al mar en North Beach",
+      "Unidades amobladas por Adriana Hoyos",
+      "Rooftop con piscina, lounge y cine al aire libre"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-7200.jpg",
+    "logoProject": "/7200-logo.png",
+    "kicker": "North Beach • 7200 Collins"
+  }
+  ,
+  {
+    "id": "rider",
+    "tema": "The Rider Wynwood",
+    "titulo": "Residencias para renta con gestión incluida",
+    "subtitulo": "Desde USD 500k · diseño y lifestyle únicos",
+    "bullets": [
+      "Renta corta y larga permitida con gestión interna",
+      "Rooftop con piscina estilo resort, bar y lounge",
+      "Centro de bienestar con gimnasio, saunas y spa de hidroterapia frío/calor",
+      "Ubicación estratégica: Wynwood · Midtown · Design District"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-rider.jpg",
+    "logoProject": "/rider-logo.png",
+    "kicker": "Wynwood • The Rider"
+  }
+  ,
+  {
+    "id": "parkside",
+    "tema": "Parkside Brickell",
+    "titulo": "Opción de Visa de Inversionista EB‑5",
+    "subtitulo": "Desde USD 500k · residencias amobladas",
+    "bullets": [
+      "Política de renta sin restricciones (gestión in‑house)",
+      "Boutique en el corazón de Brickell",
+      "Renta corta sin restricciones",
+      "Rooftop con piscina y cabañas; gimnasio en terraza"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-parkside.jpg",
+    "logoProject": "/parkside-logo.png",
+    "kicker": "Brickell • Parkside"
+  }
+]
