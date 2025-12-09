@@ -120,4 +120,41 @@
     "logoProject": "/nomad-logo.png",
     "kicker": "Wynwood • NoMad"
   }
+  ,
+  {
+    "id": "seven-park",
+    "tema": "Seven Park Residences",
+    "titulo": "Oportunidad Imperdible!",
+    "subtitulo": "Desde USD 370k",
+    "bullets": [
+      "Condo boutique 8 pisos · 121 residencias",
+      "Renta corta sin restricciones",
+      "Amenidades 2,800 m²: rooftop con piscinas y cabañas, wellness, cowork",
+      "Estacionamiento incluido con cargadores EV",
+      "entrega estimada inicio de 2027"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/bg-seven-park.jpg",
+    "logoProject": "/seven-park-logo.png",
+    "kicker": "Hallandale Beach • Seven Park"
+  }
+  ,
+  {
+    "id": "nickelodeon",
+    "tema": "Nickelodeon™ Hotels & Resorts",
+    "titulo": "Orlando · Diversión y rentabilidad!",
+    "subtitulo": "Desde USD 415.3k · entrega 2026",
+    "bullets": [
+      "Unidades listas para rentar",
+      "Suites temáticas amobladas; cocina/kitchenette y lavadora/secadora",
+      "423 suites + 4 restaurantes (Le Spatula, Mikey's, Aqua Bite, Express)",
+      "Respaldo internacional"
+    ],
+    "footerUrl": "www.estebanfirpo.com",
+    "phone": "+1 754 267 3931",
+    "bg": "/flyers/Nickelodeon.jpg",
+    "logoProject": "/nickelodeon-logo.png",
+    "kicker": "Orlando • Nickelodeon™"
+  }
 ]
